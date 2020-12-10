@@ -12,14 +12,14 @@
 #!   DESCRIPTION=""
 #!   DESTINATION="NONE"
 #!   DESTINATION_ROUTING_FILE=""
-#!   DOC_EXTENTS="2664.4 1159.37"
-#!   DOC_TOP_LEFT="1121.89 -1564.55"
+#!   DOC_EXTENTS="2664.4 71"
+#!   DOC_TOP_LEFT="1121.89 -908.508"
 #!   END_PYTHON=""
 #!   END_TCL=""
 #!   EXPLICIT_BOOKMARK_ORDER="false"
 #!   FME_BUILD_NUM="20806"
-#!   FME_DOCUMENT_GUID="9965236b-99fa-4088-806a-e13f2567da0d"
-#!   FME_DOCUMENT_PRIORGUID="41c64051-9560-4730-8c0f-99ec64282779,7fc8d80d-4dfa-44be-a48b-b75af72bdc79,a73649e9-db1b-43fd-818b-35489273cac7,1602d6b7-1262-4af3-8bcf-644aba937cc1"
+#!   FME_DOCUMENT_GUID="ea8dfd33-2b31-482b-8436-2b646d44d278"
+#!   FME_DOCUMENT_PRIORGUID="41c64051-9560-4730-8c0f-99ec64282779,7fc8d80d-4dfa-44be-a48b-b75af72bdc79,a73649e9-db1b-43fd-818b-35489273cac7,1602d6b7-1262-4af3-8bcf-644aba937cc1,9965236b-99fa-4088-806a-e13f2567da0d"
 #!   FME_GEOMETRY_HANDLING="Enhanced"
 #!   FME_IMPLICIT_CSMAP_REPROJECTION_MODE="Auto"
 #!   FME_REPROJECTION_ENGINE="FME"
@@ -28,7 +28,7 @@
 #!   HISTORY=""
 #!   IGNORE_READER_FAILURE="No"
 #!   LAST_SAVE_BUILD="FME(R) 2020.2.1.0 (20201130 - Build 20806 - WIN64)"
-#!   LAST_SAVE_DATE="2020-12-10T09:27:20"
+#!   LAST_SAVE_DATE="2020-12-10T11:03:16"
 #!   LOG_FILE=""
 #!   LOG_MAX_RECORDED_FEATURES="200"
 #!   MARKDOWN_DESCRIPTION=""
@@ -47,7 +47,7 @@
 #!   TITLE=""
 #!   USAGE=""
 #!   USE_MARKDOWN=""
-#!   VIEW_POSITION="101.294 730.611"
+#!   VIEW_POSITION="79.7422 775.87"
 #!   WARN_INVALID_XFORM_PARAM="Yes"
 #!   WORKSPACE_VERSION="1"
 #!   ZOOM_SCALE="145"
@@ -337,69 +337,6 @@
 #!     <XFORM_PARM PARM_NAME="WRITER_METAFILE" PARM_VALUE="ATTRIBUTE_CASE,ANY,ATTRIBUTE_INVALID_CHARS,&lt;quote&gt;*&lt;opencurly&gt;&lt;closecurly&gt;&lt;dollar&gt;,ATTRIBUTE_LENGTH,255,ATTR_TYPE_MAP,string&lt;comma&gt;fme_buffer&lt;comma&gt;string&lt;comma&gt;fme_binarybuffer&lt;comma&gt;string&lt;comma&gt;fme_xml&lt;comma&gt;string&lt;comma&gt;fme_json&lt;comma&gt;string&lt;comma&gt;fme_varchar&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;string&lt;comma&gt;fme_varbinary&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;string&lt;comma&gt;fme_char&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;string&lt;comma&gt;fme_binary&lt;openparen&gt;width&lt;closeparen&gt;&lt;comma&gt;string&lt;comma&gt;fme_datetime&lt;comma&gt;string&lt;comma&gt;fme_time&lt;comma&gt;string&lt;comma&gt;fme_date&lt;comma&gt;string&lt;comma&gt;fme_real64&lt;comma&gt;real64&lt;comma&gt;fme_real64&lt;comma&gt;x_coordinate&lt;comma&gt;fme_real64&lt;comma&gt;y_coordinate&lt;comma&gt;fme_real64&lt;comma&gt;z_coordinate&lt;comma&gt;fme_real64&lt;comma&gt;string&lt;comma&gt;fme_real32&lt;comma&gt;real32&lt;comma&gt;fme_real32&lt;comma&gt;string&lt;comma&gt;fme_int64&lt;comma&gt;int64&lt;comma&gt;fme_int64&lt;comma&gt;string&lt;comma&gt;fme_int32&lt;comma&gt;int32&lt;comma&gt;fme_int32&lt;comma&gt;string&lt;comma&gt;fme_int16&lt;comma&gt;int16&lt;comma&gt;fme_int16&lt;comma&gt;string&lt;comma&gt;fme_int8&lt;comma&gt;int8&lt;comma&gt;fme_int8&lt;comma&gt;string&lt;comma&gt;fme_uint64&lt;comma&gt;uint64&lt;comma&gt;fme_uint64&lt;comma&gt;string&lt;comma&gt;fme_uint32&lt;comma&gt;uint32&lt;comma&gt;fme_uint32&lt;comma&gt;string&lt;comma&gt;fme_uint16&lt;comma&gt;uint16&lt;comma&gt;fme_uint16&lt;comma&gt;string&lt;comma&gt;fme_uint8&lt;comma&gt;uint8&lt;comma&gt;fme_uint8&lt;comma&gt;string&lt;comma&gt;fme_boolean&lt;comma&gt;boolean&lt;comma&gt;fme_boolean&lt;comma&gt;string&lt;comma&gt;&lt;quote&gt;fme_decimal&lt;openparen&gt;width&lt;comma&gt;decimal&lt;closeparen&gt;&lt;quote&gt;,DEST_ILLEGAL_ATTR_LIST,,FEATURE_TYPE_CASE,ANY,FEATURE_TYPE_INVALID_CHARS,&lt;solidus&gt;&lt;quote&gt;:?*&lt;lt&gt;&lt;gt&gt;|,FEATURE_TYPE_LENGTH,0,FEATURE_TYPE_LENGTH_INCLUDES_PREFIX,false,FEATURE_TYPE_RESERVED_WORDS,,FORMAT_METAFILE,$(FME_HOME_ENCODED)metafile&lt;backslash&gt;CSV2.fmf,FORMAT_NAME,CSV2,GEOM_MAP,csv_feature_table&lt;comma&gt;fme_feature_table&lt;comma&gt;csv_none&lt;comma&gt;fme_no_geom&lt;comma&gt;csv_point&lt;comma&gt;fme_point&lt;comma&gt;csv_none&lt;comma&gt;fme_line&lt;comma&gt;csv_none&lt;comma&gt;fme_polygon&lt;comma&gt;csv_none&lt;comma&gt;fme_text&lt;comma&gt;csv_none&lt;comma&gt;fme_ellipse&lt;comma&gt;csv_none&lt;comma&gt;fme_arc&lt;comma&gt;csv_none&lt;comma&gt;fme_rectangle&lt;comma&gt;csv_none&lt;comma&gt;fme_rounded_rectangle&lt;comma&gt;fme_no_map&lt;comma&gt;fme_no_geom&lt;comma&gt;fme_no_map&lt;comma&gt;fme_no_map&lt;comma&gt;csv_none&lt;comma&gt;fme_collection&lt;comma&gt;csv_none&lt;comma&gt;fme_raster&lt;comma&gt;csv_none&lt;comma&gt;fme_surface&lt;comma&gt;csv_none&lt;comma&gt;fme_solid&lt;comma&gt;csv_none&lt;comma&gt;fme_point_cloud,READER_ATTR_INDEX_TYPES,,READER_USES_DEF,yes,SOURCE,no,SUPPORTS_FEAT_TYPE_FANOUT,yes,SUPPORTS_MULTI_GEOM,yes,WORKBENCH_CANNED_SCHEMA,,WRITER,CSV2,WRITER_ATTR_INDEX_TYPES,,WRITER_DEFLINE_PARMS,&lt;quote&gt;GUI&lt;space&gt;NAMEDGROUP&lt;space&gt;csv_dataset_group&lt;space&gt;csv_existing_file_handling&lt;space&gt;Dataset&lt;quote&gt;&lt;comma&gt;&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;CHOICE&lt;space&gt;csv_existing_file_handling&lt;space&gt;Yes%No&lt;space&gt;Overwrite&lt;space&gt;Existing&lt;space&gt;File&lt;quote&gt;&lt;comma&gt;Yes&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;NAMEDGROUP&lt;space&gt;csv_fields_group&lt;space&gt;csv_write_field_names&lt;space&gt;Fields&lt;quote&gt;&lt;comma&gt;&lt;comma&gt;&lt;quote&gt;GUI&lt;space&gt;LOOKUP_CHOICE&lt;space&gt;csv_write_field_names&lt;space&gt;If&lt;lt&gt;space&lt;gt&gt;Writing&lt;lt&gt;space&lt;gt&gt;First&lt;lt&gt;space&lt;gt&gt;Row&lt;comma&gt;firstrow%Yes&lt;comma&gt;yes%No&lt;comma&gt;no&lt;space&gt;Write&lt;space&gt;Field&lt;space&gt;Names&lt;space&gt;Row&lt;quote&gt;&lt;comma&gt;firstrow,WRITER_DEF_LINE_TEMPLATE,&lt;opencurly&gt;FME_GEN_GROUP_NAME&lt;closecurly&gt;&lt;comma&gt;csv_existing_file_handling&lt;comma&gt;Yes&lt;comma&gt;csv_write_field_names&lt;comma&gt;firstrow,WRITER_FORMAT_PARAMETER,ADVANCED_PARMS&lt;comma&gt;&lt;quote&gt;CSV2_OUT_QUALIFY_FIELD_NAMES&lt;space&gt;CSV2_OUT_QUALIFY_FIELD_VALUES&lt;space&gt;CSV2_OUT_FIELD_QUALIFIER_CHARACTER&lt;space&gt;CSV2_OUT_FIELD_QUALIFIER_ESCAPE_CHARACTER&lt;space&gt;CSV2_OUT_ROW_TERMINATION&lt;space&gt;CSV2_OUT_WRITE_SCHEMA_FILE&lt;space&gt;CSV2_OUT_EXISTING_SCHEMA_FILE_HANDLING&lt;quote&gt;&lt;comma&gt;DEFAULT_ATTR_TYPE&lt;comma&gt;string&lt;comma&gt;DATASET_NAME&lt;comma&gt;&lt;quote&gt;csv&lt;space&gt;file&lt;quote&gt;&lt;comma&gt;FEATURE_TYPE_NAME&lt;comma&gt;&lt;quote&gt;CSV&lt;space&gt;File&lt;quote&gt;&lt;comma&gt;FEATURE_TYPE_DEFAULT_NAME&lt;comma&gt;File1&lt;comma&gt;READER_DATASET_HINT&lt;comma&gt;&lt;quote&gt;Select&lt;space&gt;the&lt;space&gt;CSV&lt;space&gt;file&lt;openparen&gt;s&lt;closeparen&gt;&lt;quote&gt;&lt;comma&gt;WRITER_DATASET_HINT&lt;comma&gt;&lt;quote&gt;Specify&lt;space&gt;a&lt;space&gt;folder&lt;space&gt;for&lt;space&gt;the&lt;space&gt;CSV&lt;space&gt;file&lt;quote&gt;&lt;comma&gt;ATTRIBUTE_READING&lt;comma&gt;DEFLINE,WRITER_HAS_DEFLINE_ATTRS,yes,WRITER_USES_DEF,yes"/>
 #!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="FeatureWriter"/>
 #! </TRANSFORMER>
-#! <TRANSFORMER
-#!   IDENTIFIER="12"
-#!   TYPE="Logger"
-#!   VERSION="4"
-#!   POSITION="2553.1505315053141 -1493.5494182528028"
-#!   BOUNDING_RECT="2553.1505315053141 -1493.5494182528028 454 71"
-#!   ORDER="500000000000005"
-#!   PARMS_EDITED="true"
-#!   ENABLED="true"
-#!   LAST_PARM_EDIT="20806"
-#! >
-#!     <OUTPUT_FEAT NAME="LOGGED"/>
-#!     <FEAT_COLLAPSED COLLAPSED="0"/>
-#!     <XFORM_ATTR ATTR_NAME="First Name" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="Surname" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="Department" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="Title" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_PARM PARM_NAME="FEATURE_TYPE" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="LOG_FEATURE" PARM_VALUE="NONE"/>
-#!     <XFORM_PARM PARM_NAME="MAXCOORDS" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="MAXFEATS" PARM_VALUE="20"/>
-#!     <XFORM_PARM PARM_NAME="MESSAGE" PARM_VALUE="THIS&lt;space&gt;IS&lt;space&gt;UNFILTERED"/>
-#!     <XFORM_PARM PARM_NAME="MSG_GRP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="PARAMETERS_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="SEVERITY" PARM_VALUE="WARN"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Logger"/>
-#! </TRANSFORMER>
-#! <TRANSFORMER
-#!   IDENTIFIER="14"
-#!   TYPE="Tester"
-#!   VERSION="3"
-#!   POSITION="2939.6845692594852 -405.17646555775889"
-#!   BOUNDING_RECT="2939.6845692594852 -405.17646555775889 454 71"
-#!   ORDER="500000000000006"
-#!   PARMS_EDITED="true"
-#!   ENABLED="true"
-#!   LAST_PARM_EDIT="20806"
-#! >
-#!     <OUTPUT_FEAT NAME="PASSED"/>
-#!     <FEAT_COLLAPSED COLLAPSED="0"/>
-#!     <XFORM_ATTR ATTR_NAME="First Name" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="Surname" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="Department" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <XFORM_ATTR ATTR_NAME="Title" IS_USER_CREATED="false" FEAT_INDEX="0" />
-#!     <OUTPUT_FEAT NAME="FAILED"/>
-#!     <FEAT_COLLAPSED COLLAPSED="1"/>
-#!     <XFORM_ATTR ATTR_NAME="First Name" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="Surname" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="Department" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_ATTR ATTR_NAME="Title" IS_USER_CREATED="false" FEAT_INDEX="1" />
-#!     <XFORM_PARM PARM_NAME="ADVANCED_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="BOOL_OP" PARM_VALUE="OR"/>
-#!     <XFORM_PARM PARM_NAME="COMPOSITE_MSG" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="COMPOSITE_TEST" PARM_VALUE="1"/>
-#!     <XFORM_PARM PARM_NAME="PRESERVE_FEATURE_ORDER" PARM_VALUE="Per Output Port"/>
-#!     <XFORM_PARM PARM_NAME="TEST_CLAUSE" PARM_VALUE="CASE_INSENSITIVE_TEST &lt;at&gt;Value&lt;openparen&gt;First&lt;space&gt;Name&lt;closeparen&gt; CONTAINS Sam"/>
-#!     <XFORM_PARM PARM_NAME="TEST_CLAUSE_GRP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="TEST_MODE" PARM_VALUE="TEST"/>
-#!     <XFORM_PARM PARM_NAME="TEST_PREVIEW_GROUP" PARM_VALUE="&lt;Unused&gt;"/>
-#!     <XFORM_PARM PARM_NAME="TRANSFORMER_GROUP" PARM_VALUE=""/>
-#!     <XFORM_PARM PARM_NAME="XFORMER_NAME" PARM_VALUE="Tester"/>
-#! </TRANSFORMER>
 #! </TRANSFORMERS>
 #! <FEAT_LINKS>
 #! <FEAT_LINK
@@ -418,25 +355,10 @@
 #!   EXTRA_POINTS=""
 #! />
 #! <FEAT_LINK
-#!   IDENTIFIER="8"
+#!   IDENTIFIER="16"
 #!   SOURCE_NODE="5"
-#!   TARGET_NODE="14"
-#!   SOURCE_PORT_DESC="fo 0 Services"
-#!   TARGET_PORT_DESC="fi 0 "
-#!   ENABLED="true"
-#!   EXECUTION_IDX="0"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="15"
-#!   SOURCE_NODE="14"
 #!   TARGET_NODE="7"
-#!   SOURCE_PORT_DESC="fo 0 PASSED"
+#!   SOURCE_PORT_DESC="fo 0 Services"
 #!   TARGET_PORT_DESC="fi 0 Services"
 #!   ENABLED="true"
 #!   EXECUTION_IDX="0"
@@ -498,21 +420,6 @@
 #!   TARGET_NODE="7"
 #!   SOURCE_PORT_DESC="fo 3 Administration"
 #!   TARGET_PORT_DESC="fi 3 Administration"
-#!   ENABLED="true"
-#!   EXECUTION_IDX="0"
-#!   HIDDEN="false"
-#!   COLOUR="0.82352941176470584,0.82352941176470584,0.82352941176470584,1"
-#!   PEN_WIDTH="4"
-#!   PEN_STYLE="1"
-#!   LINK_STYLE_NAME="&lt;Default&gt;"
-#!   EXTRA_POINTS=""
-#! />
-#! <FEAT_LINK
-#!   IDENTIFIER="13"
-#!   SOURCE_NODE="5"
-#!   TARGET_NODE="12"
-#!   SOURCE_PORT_DESC="fo 4 &lt;lt&gt;lt&lt;gt&gt;UNFILTERED&lt;lt&gt;gt&lt;gt&gt;"
-#!   TARGET_PORT_DESC="fi 0 "
 #!   ENABLED="true"
 #!   EXECUTION_IDX="0"
 #!   HIDDEN="false"
@@ -605,14 +512,10 @@ FACTORY_DEF * TestFactory FACTORY_NAME TestFilter_Condition_2 INPUT FEATURE_TYPE
 FACTORY_DEF * TestFactory FACTORY_NAME TestFilter_Condition_3 INPUT FEATURE_TYPE TestFilter_TESTFILTERINPUTLINE_2 TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>Department<closeparen>,TestFilter) = Sales ENCODED BOOLEAN_OPERATOR OR COMPOSITE_TEST_EXPR "1" FEATURE_TABLE_SHIM_SUPPORT Yes PRESERVE_FEATURE_ORDER PER_OUTPUT_PORT OUTPUT PASSED FEATURE_TYPE TestFilter_Sales OUTPUT FAILED FEATURE_TYPE TestFilter_TESTFILTERINPUTLINE_3
 FACTORY_DEF * TestFactory FACTORY_NAME TestFilter_Condition_4 INPUT FEATURE_TYPE TestFilter_TESTFILTERINPUTLINE_3 TEST @EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>Department<closeparen>,TestFilter) = Administration ENCODED BOOLEAN_OPERATOR OR COMPOSITE_TEST_EXPR "1" FEATURE_TABLE_SHIM_SUPPORT Yes PRESERVE_FEATURE_ORDER PER_OUTPUT_PORT OUTPUT PASSED FEATURE_TYPE TestFilter_Administration OUTPUT FAILED FEATURE_TYPE TestFilter_TESTFILTERINPUTLINE_4
 FACTORY_DEF * TeeFactory FACTORY_NAME TestFilter_<lt>UNFILTERED<gt> INPUT FEATURE_TYPE TestFilter_TESTFILTERINPUTLINE_4 OUTPUT FEATURE_TYPE TestFilter_<lt>UNFILTERED<gt>
-# -------------------------------------------------------------------------
-FACTORY_DEF * TeeFactory    FACTORY_NAME Logger_Logger    INPUT  FEATURE_TYPE TestFilter_<lt>UNFILTERED<gt>    OUTPUT FEATURE_TYPE Logger_LOGGED                  @Log(ENCODED, "Logger:<space>THIS<space>IS<space>UNFILTERED","<Unused>","20","",WARN,NONE,Logger_0e159d53_172c_4d22_a19e_0c77a63992a50)
-FACTORY_DEF * TeeFactory   FACTORY_NAME "Logger LOGGED Transformer Output Nuker"   INPUT FEATURE_TYPE Logger_LOGGED
-# -------------------------------------------------------------------------
-FACTORY_DEF * TestFactory    FACTORY_NAME Tester    INPUT  FEATURE_TYPE TestFilter_Services    CASE_INSENSITIVE_TEST "@EvaluateExpression(FDIV,STRING_ENCODED,<at>Value<openparen>First<space>Name<closeparen>,Tester)" CONTAINS Sam ENCODED    BOOLEAN_OPERATOR OR    COMPOSITE_TEST_EXPR "1"    FEATURE_TABLE_SHIM_SUPPORT Yes    PRESERVE_FEATURE_ORDER PER_OUTPUT_PORT    OUTPUT PASSED FEATURE_TYPE Tester_PASSED
+FACTORY_DEF * TeeFactory   FACTORY_NAME "TestFilter <lt>UNFILTERED<gt> Transformer Output Nuker"   INPUT FEATURE_TYPE TestFilter_<lt>UNFILTERED<gt>
 # -------------------------------------------------------------------------
 INCLUDE [    puts {DEFAULT_MACRO FeatureWriterDataset_FeatureWriter @EvaluateExpression(FDIV,STRING_ENCODED,$(OutputFolder$encode),FeatureWriter)}; ]
-FACTORY_DEF {*} WriterFactory    FACTORY_NAME FeatureWriter    WRITER_TYPE CSV2    WRITER_DATASET "$(FeatureWriterDataset_FeatureWriter)"    WRITER_SETTINGS "RUNTIME_MACROS,DATASET_GROUP<comma><comma>EXTENSION<comma>csv<comma>EXISTING_FILE_HANDLING<comma>Yes<comma>FIELDS_GROUP<comma><comma>DELIMITER<comma><lt>comma<gt><comma>WRITE_FIELD_NAMES<comma>firstrow<comma>ENCODING_GROUP<comma><comma>ENCODING<comma>UTF-8<comma>WRITE_BOM_FOR_UNICODE<comma>Yes<comma>ADVANCED_GROUP<comma><comma>QUALIFY_FIELD_NAMES<comma>if_needed<comma>QUALIFY_FIELD_VALUES<comma>if_needed<comma>UNQUALIFIED_FIELD_VALUE_HANDLING<comma><lt>Unused<gt><comma>FIELD_QUALIFIER_CHARACTER<comma><lt>quote<gt><comma>FIELD_QUALIFIER_ESCAPE_CHARACTER<comma><lt>quote<gt><comma>ROW_TERMINATION<comma>System<comma>WRITE_SCHEMA_FILE<comma>NO<comma>EXISTING_SCHEMA_FILE_HANDLING<comma><lt>Unused<gt><comma>COORDINATE_SYSTEM_GRANULARITY<comma>FEATURE_TYPE,METAFILE,CSV2"    WRITER_METAFILE "ATTRIBUTE_CASE,ANY,ATTRIBUTE_INVALID_CHARS,<quote>*<opencurly><closecurly><dollar>,ATTRIBUTE_LENGTH,255,ATTR_TYPE_MAP,string<comma>fme_buffer<comma>string<comma>fme_binarybuffer<comma>string<comma>fme_xml<comma>string<comma>fme_json<comma>string<comma>fme_varchar<openparen>width<closeparen><comma>string<comma>fme_varbinary<openparen>width<closeparen><comma>string<comma>fme_char<openparen>width<closeparen><comma>string<comma>fme_binary<openparen>width<closeparen><comma>string<comma>fme_datetime<comma>string<comma>fme_time<comma>string<comma>fme_date<comma>string<comma>fme_real64<comma>real64<comma>fme_real64<comma>x_coordinate<comma>fme_real64<comma>y_coordinate<comma>fme_real64<comma>z_coordinate<comma>fme_real64<comma>string<comma>fme_real32<comma>real32<comma>fme_real32<comma>string<comma>fme_int64<comma>int64<comma>fme_int64<comma>string<comma>fme_int32<comma>int32<comma>fme_int32<comma>string<comma>fme_int16<comma>int16<comma>fme_int16<comma>string<comma>fme_int8<comma>int8<comma>fme_int8<comma>string<comma>fme_uint64<comma>uint64<comma>fme_uint64<comma>string<comma>fme_uint32<comma>uint32<comma>fme_uint32<comma>string<comma>fme_uint16<comma>uint16<comma>fme_uint16<comma>string<comma>fme_uint8<comma>uint8<comma>fme_uint8<comma>string<comma>fme_boolean<comma>boolean<comma>fme_boolean<comma>string<comma><quote>fme_decimal<openparen>width<comma>decimal<closeparen><quote>,DEST_ILLEGAL_ATTR_LIST,,FEATURE_TYPE_CASE,ANY,FEATURE_TYPE_INVALID_CHARS,<solidus><quote>:?*<lt><gt>|,FEATURE_TYPE_LENGTH,0,FEATURE_TYPE_LENGTH_INCLUDES_PREFIX,false,FEATURE_TYPE_RESERVED_WORDS,,FORMAT_METAFILE,$(FME_HOME_ENCODED)metafile<backslash>CSV2.fmf,FORMAT_NAME,CSV2,GEOM_MAP,csv_feature_table<comma>fme_feature_table<comma>csv_none<comma>fme_no_geom<comma>csv_point<comma>fme_point<comma>csv_none<comma>fme_line<comma>csv_none<comma>fme_polygon<comma>csv_none<comma>fme_text<comma>csv_none<comma>fme_ellipse<comma>csv_none<comma>fme_arc<comma>csv_none<comma>fme_rectangle<comma>csv_none<comma>fme_rounded_rectangle<comma>fme_no_map<comma>fme_no_geom<comma>fme_no_map<comma>fme_no_map<comma>csv_none<comma>fme_collection<comma>csv_none<comma>fme_raster<comma>csv_none<comma>fme_surface<comma>csv_none<comma>fme_solid<comma>csv_none<comma>fme_point_cloud,READER_ATTR_INDEX_TYPES,,READER_USES_DEF,yes,SOURCE,no,SUPPORTS_FEAT_TYPE_FANOUT,yes,SUPPORTS_MULTI_GEOM,yes,WORKBENCH_CANNED_SCHEMA,,WRITER,CSV2,WRITER_ATTR_INDEX_TYPES,,WRITER_DEFLINE_PARMS,<quote>GUI<space>NAMEDGROUP<space>csv_dataset_group<space>csv_existing_file_handling<space>Dataset<quote><comma><comma><quote>GUI<space>CHOICE<space>csv_existing_file_handling<space>Yes%No<space>Overwrite<space>Existing<space>File<quote><comma>Yes<comma><quote>GUI<space>NAMEDGROUP<space>csv_fields_group<space>csv_write_field_names<space>Fields<quote><comma><comma><quote>GUI<space>LOOKUP_CHOICE<space>csv_write_field_names<space>If<lt>space<gt>Writing<lt>space<gt>First<lt>space<gt>Row<comma>firstrow%Yes<comma>yes%No<comma>no<space>Write<space>Field<space>Names<space>Row<quote><comma>firstrow,WRITER_DEF_LINE_TEMPLATE,<opencurly>FME_GEN_GROUP_NAME<closecurly><comma>csv_existing_file_handling<comma>Yes<comma>csv_write_field_names<comma>firstrow,WRITER_FORMAT_PARAMETER,ADVANCED_PARMS<comma><quote>CSV2_OUT_QUALIFY_FIELD_NAMES<space>CSV2_OUT_QUALIFY_FIELD_VALUES<space>CSV2_OUT_FIELD_QUALIFIER_CHARACTER<space>CSV2_OUT_FIELD_QUALIFIER_ESCAPE_CHARACTER<space>CSV2_OUT_ROW_TERMINATION<space>CSV2_OUT_WRITE_SCHEMA_FILE<space>CSV2_OUT_EXISTING_SCHEMA_FILE_HANDLING<quote><comma>DEFAULT_ATTR_TYPE<comma>string<comma>DATASET_NAME<comma><quote>csv<space>file<quote><comma>FEATURE_TYPE_NAME<comma><quote>CSV<space>File<quote><comma>FEATURE_TYPE_DEFAULT_NAME<comma>File1<comma>READER_DATASET_HINT<comma><quote>Select<space>the<space>CSV<space>file<openparen>s<closeparen><quote><comma>WRITER_DATASET_HINT<comma><quote>Specify<space>a<space>folder<space>for<space>the<space>CSV<space>file<quote><comma>ATTRIBUTE_READING<comma>DEFLINE,WRITER_HAS_DEFLINE_ATTRS,yes,WRITER_USES_DEF,yes"    WRITER_FEATURE_TYPES "Services:Services,ftp_feature_type_name,Services,ftp_writer,CSV2,ftp_dynamic_schema,no,ftp_dynamic_feature_type_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_geometry_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_def_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_sources,<lt>lt<gt>Unused<lt>gt<gt>,ftp_attribute_source,0,ftp_user_attributes,First<lt>space<gt>Name<comma>string<comma>Surname<comma>string<comma>Department<comma>string<comma>Title<comma>string,ftp_user_attribute_values,<comma><comma><comma>,ftp_format_parameters,csv_dataset_group<comma><comma>csv_existing_file_handling<comma>Yes<comma>csv_fields_group<comma><comma>csv_write_field_names<comma>firstrow;Marketing:Marketing,ftp_feature_type_name,Marketing,ftp_writer,CSV2,ftp_attribute_source,0,ftp_user_attributes,First<lt>space<gt>Name<comma>string<comma>Surname<comma>string<comma>Department<comma>string<comma>Title<comma>string;Sales:Sales,ftp_feature_type_name,Sales,ftp_writer,CSV2,ftp_attribute_source,0,ftp_user_attributes,First<lt>space<gt>Name<comma>string<comma>Surname<comma>string<comma>Department<comma>string<comma>Title<comma>string;Administration:Administration,ftp_feature_type_name,Administration,ftp_writer,CSV2,ftp_attribute_source,0,ftp_user_attributes,First<lt>space<gt>Name<comma>string<comma>Surname<comma>string<comma>Department<comma>string<comma>Title<comma>string"    WRITER_PARAMS "QUALIFY_FIELD_NAMES,if_needed,EXTENSION,csv,QUALIFY_FIELD_VALUES,if_needed,COORDINATE_SYSTEM_GRANULARITY,FEATURE_TYPE,EXISTING_FILE_HANDLING,Yes,ROW_TERMINATION,System,DELIMITER,<lt>comma<gt>,WRITE_SCHEMA_FILE,NO,WRITE_BOM_FOR_UNICODE,Yes,ENCODING,UTF-8,FIELD_QUALIFIER_CHARACTER,<lt>quote<gt>,FIELD_QUALIFIER_ESCAPE_CHARACTER,<lt>quote<gt>,WRITE_FIELD_NAMES,firstrow"    DATASET_ATTR "_dataset"    FEATURE_TYPE_LIST_ATTR "_feature_type"    TOTAL_FEATURES_WRITTEN_ATTR "_total_features_written"    OUTPUT_PORTS ""    INPUT Services FEATURE_TYPE Tester_PASSED  @FeatureType(ENCODED,Services)      INPUT Marketing FEATURE_TYPE TestFilter_Marketing  @FeatureType(ENCODED,Marketing)      INPUT Sales FEATURE_TYPE TestFilter_Sales  @FeatureType(ENCODED,Sales)      INPUT Administration FEATURE_TYPE TestFilter_Administration  @FeatureType(ENCODED,Administration)
+FACTORY_DEF {*} WriterFactory    FACTORY_NAME FeatureWriter    WRITER_TYPE CSV2    WRITER_DATASET "$(FeatureWriterDataset_FeatureWriter)"    WRITER_SETTINGS "RUNTIME_MACROS,DATASET_GROUP<comma><comma>EXTENSION<comma>csv<comma>EXISTING_FILE_HANDLING<comma>Yes<comma>FIELDS_GROUP<comma><comma>DELIMITER<comma><lt>comma<gt><comma>WRITE_FIELD_NAMES<comma>firstrow<comma>ENCODING_GROUP<comma><comma>ENCODING<comma>UTF-8<comma>WRITE_BOM_FOR_UNICODE<comma>Yes<comma>ADVANCED_GROUP<comma><comma>QUALIFY_FIELD_NAMES<comma>if_needed<comma>QUALIFY_FIELD_VALUES<comma>if_needed<comma>UNQUALIFIED_FIELD_VALUE_HANDLING<comma><lt>Unused<gt><comma>FIELD_QUALIFIER_CHARACTER<comma><lt>quote<gt><comma>FIELD_QUALIFIER_ESCAPE_CHARACTER<comma><lt>quote<gt><comma>ROW_TERMINATION<comma>System<comma>WRITE_SCHEMA_FILE<comma>NO<comma>EXISTING_SCHEMA_FILE_HANDLING<comma><lt>Unused<gt><comma>COORDINATE_SYSTEM_GRANULARITY<comma>FEATURE_TYPE,METAFILE,CSV2"    WRITER_METAFILE "ATTRIBUTE_CASE,ANY,ATTRIBUTE_INVALID_CHARS,<quote>*<opencurly><closecurly><dollar>,ATTRIBUTE_LENGTH,255,ATTR_TYPE_MAP,string<comma>fme_buffer<comma>string<comma>fme_binarybuffer<comma>string<comma>fme_xml<comma>string<comma>fme_json<comma>string<comma>fme_varchar<openparen>width<closeparen><comma>string<comma>fme_varbinary<openparen>width<closeparen><comma>string<comma>fme_char<openparen>width<closeparen><comma>string<comma>fme_binary<openparen>width<closeparen><comma>string<comma>fme_datetime<comma>string<comma>fme_time<comma>string<comma>fme_date<comma>string<comma>fme_real64<comma>real64<comma>fme_real64<comma>x_coordinate<comma>fme_real64<comma>y_coordinate<comma>fme_real64<comma>z_coordinate<comma>fme_real64<comma>string<comma>fme_real32<comma>real32<comma>fme_real32<comma>string<comma>fme_int64<comma>int64<comma>fme_int64<comma>string<comma>fme_int32<comma>int32<comma>fme_int32<comma>string<comma>fme_int16<comma>int16<comma>fme_int16<comma>string<comma>fme_int8<comma>int8<comma>fme_int8<comma>string<comma>fme_uint64<comma>uint64<comma>fme_uint64<comma>string<comma>fme_uint32<comma>uint32<comma>fme_uint32<comma>string<comma>fme_uint16<comma>uint16<comma>fme_uint16<comma>string<comma>fme_uint8<comma>uint8<comma>fme_uint8<comma>string<comma>fme_boolean<comma>boolean<comma>fme_boolean<comma>string<comma><quote>fme_decimal<openparen>width<comma>decimal<closeparen><quote>,DEST_ILLEGAL_ATTR_LIST,,FEATURE_TYPE_CASE,ANY,FEATURE_TYPE_INVALID_CHARS,<solidus><quote>:?*<lt><gt>|,FEATURE_TYPE_LENGTH,0,FEATURE_TYPE_LENGTH_INCLUDES_PREFIX,false,FEATURE_TYPE_RESERVED_WORDS,,FORMAT_METAFILE,$(FME_HOME_ENCODED)metafile<backslash>CSV2.fmf,FORMAT_NAME,CSV2,GEOM_MAP,csv_feature_table<comma>fme_feature_table<comma>csv_none<comma>fme_no_geom<comma>csv_point<comma>fme_point<comma>csv_none<comma>fme_line<comma>csv_none<comma>fme_polygon<comma>csv_none<comma>fme_text<comma>csv_none<comma>fme_ellipse<comma>csv_none<comma>fme_arc<comma>csv_none<comma>fme_rectangle<comma>csv_none<comma>fme_rounded_rectangle<comma>fme_no_map<comma>fme_no_geom<comma>fme_no_map<comma>fme_no_map<comma>csv_none<comma>fme_collection<comma>csv_none<comma>fme_raster<comma>csv_none<comma>fme_surface<comma>csv_none<comma>fme_solid<comma>csv_none<comma>fme_point_cloud,READER_ATTR_INDEX_TYPES,,READER_USES_DEF,yes,SOURCE,no,SUPPORTS_FEAT_TYPE_FANOUT,yes,SUPPORTS_MULTI_GEOM,yes,WORKBENCH_CANNED_SCHEMA,,WRITER,CSV2,WRITER_ATTR_INDEX_TYPES,,WRITER_DEFLINE_PARMS,<quote>GUI<space>NAMEDGROUP<space>csv_dataset_group<space>csv_existing_file_handling<space>Dataset<quote><comma><comma><quote>GUI<space>CHOICE<space>csv_existing_file_handling<space>Yes%No<space>Overwrite<space>Existing<space>File<quote><comma>Yes<comma><quote>GUI<space>NAMEDGROUP<space>csv_fields_group<space>csv_write_field_names<space>Fields<quote><comma><comma><quote>GUI<space>LOOKUP_CHOICE<space>csv_write_field_names<space>If<lt>space<gt>Writing<lt>space<gt>First<lt>space<gt>Row<comma>firstrow%Yes<comma>yes%No<comma>no<space>Write<space>Field<space>Names<space>Row<quote><comma>firstrow,WRITER_DEF_LINE_TEMPLATE,<opencurly>FME_GEN_GROUP_NAME<closecurly><comma>csv_existing_file_handling<comma>Yes<comma>csv_write_field_names<comma>firstrow,WRITER_FORMAT_PARAMETER,ADVANCED_PARMS<comma><quote>CSV2_OUT_QUALIFY_FIELD_NAMES<space>CSV2_OUT_QUALIFY_FIELD_VALUES<space>CSV2_OUT_FIELD_QUALIFIER_CHARACTER<space>CSV2_OUT_FIELD_QUALIFIER_ESCAPE_CHARACTER<space>CSV2_OUT_ROW_TERMINATION<space>CSV2_OUT_WRITE_SCHEMA_FILE<space>CSV2_OUT_EXISTING_SCHEMA_FILE_HANDLING<quote><comma>DEFAULT_ATTR_TYPE<comma>string<comma>DATASET_NAME<comma><quote>csv<space>file<quote><comma>FEATURE_TYPE_NAME<comma><quote>CSV<space>File<quote><comma>FEATURE_TYPE_DEFAULT_NAME<comma>File1<comma>READER_DATASET_HINT<comma><quote>Select<space>the<space>CSV<space>file<openparen>s<closeparen><quote><comma>WRITER_DATASET_HINT<comma><quote>Specify<space>a<space>folder<space>for<space>the<space>CSV<space>file<quote><comma>ATTRIBUTE_READING<comma>DEFLINE,WRITER_HAS_DEFLINE_ATTRS,yes,WRITER_USES_DEF,yes"    WRITER_FEATURE_TYPES "Services:Services,ftp_feature_type_name,Services,ftp_writer,CSV2,ftp_dynamic_schema,no,ftp_dynamic_feature_type_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_geometry_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_def_name_type,DYN_SCHEMA_PROP_AUTO,ftp_dynamic_schema_sources,<lt>lt<gt>Unused<lt>gt<gt>,ftp_attribute_source,0,ftp_user_attributes,First<lt>space<gt>Name<comma>string<comma>Surname<comma>string<comma>Department<comma>string<comma>Title<comma>string,ftp_user_attribute_values,<comma><comma><comma>,ftp_format_parameters,csv_dataset_group<comma><comma>csv_existing_file_handling<comma>Yes<comma>csv_fields_group<comma><comma>csv_write_field_names<comma>firstrow;Marketing:Marketing,ftp_feature_type_name,Marketing,ftp_writer,CSV2,ftp_attribute_source,0,ftp_user_attributes,First<lt>space<gt>Name<comma>string<comma>Surname<comma>string<comma>Department<comma>string<comma>Title<comma>string;Sales:Sales,ftp_feature_type_name,Sales,ftp_writer,CSV2,ftp_attribute_source,0,ftp_user_attributes,First<lt>space<gt>Name<comma>string<comma>Surname<comma>string<comma>Department<comma>string<comma>Title<comma>string;Administration:Administration,ftp_feature_type_name,Administration,ftp_writer,CSV2,ftp_attribute_source,0,ftp_user_attributes,First<lt>space<gt>Name<comma>string<comma>Surname<comma>string<comma>Department<comma>string<comma>Title<comma>string"    WRITER_PARAMS "QUALIFY_FIELD_NAMES,if_needed,EXTENSION,csv,QUALIFY_FIELD_VALUES,if_needed,COORDINATE_SYSTEM_GRANULARITY,FEATURE_TYPE,EXISTING_FILE_HANDLING,Yes,ROW_TERMINATION,System,DELIMITER,<lt>comma<gt>,WRITE_SCHEMA_FILE,NO,WRITE_BOM_FOR_UNICODE,Yes,ENCODING,UTF-8,FIELD_QUALIFIER_CHARACTER,<lt>quote<gt>,FIELD_QUALIFIER_ESCAPE_CHARACTER,<lt>quote<gt>,WRITE_FIELD_NAMES,firstrow"    DATASET_ATTR "_dataset"    FEATURE_TYPE_LIST_ATTR "_feature_type"    TOTAL_FEATURES_WRITTEN_ATTR "_total_features_written"    OUTPUT_PORTS ""    INPUT Services FEATURE_TYPE TestFilter_Services  @FeatureType(ENCODED,Services)      INPUT Marketing FEATURE_TYPE TestFilter_Marketing  @FeatureType(ENCODED,Marketing)      INPUT Sales FEATURE_TYPE TestFilter_Sales  @FeatureType(ENCODED,Sales)      INPUT Administration FEATURE_TYPE TestFilter_Administration  @FeatureType(ENCODED,Administration)
 # -------------------------------------------------------------------------
 
 FACTORY_DEF * RoutingFactory FACTORY_NAME "Destination Feature Type Routing Correlator"   COMMAND_PARM_EVALUATION SINGLE_PASS   INPUT FEATURE_TYPE *   FEATURE_TYPE_ATTRIBUTE __wb_out_feat_type__   OUTPUT ROUTED FEATURE_TYPE *    OUTPUT NOT_ROUTED FEATURE_TYPE __nuke_me__ @Tcl2("FME_StatMessage 818059 [FME_GetAttribute fme_template_feature_type] 818060 818061 fme_warn")
